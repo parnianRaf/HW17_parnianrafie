@@ -1,8 +1,6 @@
 ﻿<Properties StartupConfiguration="{C048645D-4D01-4E0E-A194-E41C50986D23}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.EndPoint.HW17__ParnianRafie-m91 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="UniContext/UniDbContext.cs">
     <Files>
       <File FileName="UniContext/UniDbContext.cs" Line="14" Column="55" />
@@ -17,17 +15,23 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HW17_ParnianRafie-m91" expanded="True" selected="True">
+          <Node name="HW17_ParnianRafie-m91" expanded="True">
             <Node name="EndPoint" expanded="True" />
             <Node name="Infrastructure" expanded="True">
-              <Node name="SQLDataBase" expanded="True" />
+              <Node name="SQLDataBase" expanded="True">
+                <Node name="UniContext" expanded="True">
+                  <Node name="UniDbContext.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
