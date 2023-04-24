@@ -1,14 +1,18 @@
 ﻿
+using AppService;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Repositories;
 using UniContext;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<UniDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("myconnection")));
-
+builder.Services.AddDbContext<UniDbContext>(x => x.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+builder.Services.AddScoped<IRepository, Repository>();
+//builder.Services.AddScoped<IService, Service>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

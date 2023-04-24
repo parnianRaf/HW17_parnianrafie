@@ -2,17 +2,29 @@
 using Microsoft.EntityFrameworkCore;
 
 namespace UniContext;
-public class UniDbContext:DbContext
+public class UniDbContext : DbContext
 {
-    public UniDbContext(DbContextOptions<UniDbContext> options):base(options) { }
-   
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+    }
 
 
-    DbSet<Course> Course { get; set; }
-    DbSet<Student> Student { get; set; }
-    DbSet<StudentContactInfo> StudentContactInfo { get; set; }
-    DbSet<StudentCourse> StudentCourse { get; set; }
-    DbSet<Teacher> Teacher { get; set; }
-    DbSet<TeacherContactInfo> TeacherContactInfo { get; set; }
+    public UniDbContext(DbContextOptions<UniDbContext> options)
+      : base(options)
+    {
+    }
+
+
+    public DbSet<Course> Course { get; set; }
+    public DbSet<Student> Student { get; set; }
+    public DbSet<StudentContactInfo> StudentContactInfo { get; set; }
+    public DbSet<StudentCourse> StudentCourse { get; set; }
+    public DbSet<Teacher> Teacher { get; set; }
+    public DbSet<TeacherContactInfo> TeacherContactInfo { get; set; }
 }
+
+
+
 

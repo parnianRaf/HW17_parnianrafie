@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "juvNMbsIkqErBAiGRvBiBBPGHGEowKgGWLx+qHiE6S8=",
+  "Hash": "EitFOrnRZtM3/K5Ez8vJrpehF8Ot0e4dAdW8PEpFwcc=",
   "Source": "HW17_ParnianRafie-m91",
   "BasePath": "_content/HW17_ParnianRafie-m91",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/obj/Debug/net7.0/scopedcss/projectbundle/HW17_ParnianRafie-m91.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/.DS_Store",
+      "SourceId": "HW17_ParnianRafie-m91",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/",
+      "BasePath": "_content/HW17_ParnianRafie-m91",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/wwwroot/css/site.css",

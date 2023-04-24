@@ -1131,19 +1131,6 @@
           "bin/placeholder/AppCore.dll": {}
         }
       },
-      "AppService/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Repositories": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/AppService.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/AppService.dll": {}
-        }
-      },
       "Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3471,11 +3458,6 @@
       "path": "../AppCore/AppCore.csproj",
       "msbuildProject": "../AppCore/AppCore.csproj"
     },
-    "AppService/1.0.0": {
-      "type": "project",
-      "path": "../AppService/AppService.csproj",
-      "msbuildProject": "../AppService/AppService.csproj"
-    },
     "Repositories/1.0.0": {
       "type": "project",
       "path": "../Repositories/Repositories.csproj",
@@ -3489,8 +3471,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AppService >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Design >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
+      "Repositories >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3519,8 +3501,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppService/AppService.csproj": {
-              "projectPath": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppService/AppService.csproj"
+            "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/Repositories.csproj": {
+              "projectPath": "/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/Repositories.csproj"
             }
           }
         }
