@@ -1,0 +1,12 @@
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/bin/Debug/net7.0/AppCore.deps.json
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/bin/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/bin/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.csproj.AssemblyReference.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.AssemblyInfoInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.AssemblyInfo.cs
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.csproj.CoreCompileInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/refint/AppCore.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/AppCore/obj/Debug/net7.0/ref/AppCore.dll

@@ -1,0 +1,17 @@
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/UniContext.deps.json
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/UniContext.runtimeconfig.json
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/UniContext.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/UniContext.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/bin/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.csproj.AssemblyReference.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.AssemblyInfoInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.AssemblyInfo.cs
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.csproj.CoreCompileInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.csproj.CopyComplete
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/refint/UniContext.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/UniContext.genruntimeconfig.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/UniContext/obj/Debug/net7.0/ref/UniContext.dll

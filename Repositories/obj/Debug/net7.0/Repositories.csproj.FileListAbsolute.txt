@@ -1,0 +1,17 @@
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/Repositories.deps.json
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/Repositories.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/Repositories.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/UniContext.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/UniContext.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/bin/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.csproj.AssemblyReference.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfoInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfo.cs
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.csproj.CopyComplete
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/refint/Repositories.dll
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/Repositories.pdb
+/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/Repositories/obj/Debug/net7.0/ref/Repositories.dll
