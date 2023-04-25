@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AppCore.Entities;
 //using AppService;
 using Microsoft.AspNetCore.Mvc;
 using Repositories;
@@ -22,6 +23,7 @@ namespace HW17_ParnianRafie_m91.Controllers
         }
         public IActionResult Index()
         {
+            List<Teacher> stu=_repository.h();
             return View();
         }
     }

@@ -1,26 +1,52 @@
 ﻿<Properties StartupConfiguration="{C048645D-4D01-4E0E-A194-E41C50986D23}|https">
-  <MonoDevelop.Ide.ItemProperties.EndPoint.HW17__ParnianRafie-m91 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UniContext/UniDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW17_ParnianRafie-m91/Controllers/heController.cs">
     <Files>
-      <File FileName="UniContext/UniDbContext.cs" Line="14" Column="55" />
-      <File FileName="HW17_ParnianRafie-m91/Program.cs" />
-      <File FileName="Repositories/Repository.cs" />
-      <File FileName="AppService/Service.cs" />
-      <File FileName="HW17_ParnianRafie-m91/Controllers/HomeController.cs" />
-      <File FileName="HW17_ParnianRafie-m91/Controllers/heController.cs" />
-      <File FileName="HW17_ParnianRafie-m91/appsettings.json" />
-      <File FileName="AppCore/Entities/TeacherContactInfo.cs" />
+      <File FileName="../../Desktop/cw17_parnianrafieM91-main/UniContext/UniContext.sln" Line="1" Column="1" />
+      <File FileName="../../Desktop/cw17_parnianrafieM91-main/UniContext/UniContext.csproj" Line="1" Column="1" />
+      <File FileName="UniContext/UniDbContext.cs" Line="41" Column="19" />
+      <File FileName="HW17_ParnianRafie-m91/appsettings.json" Line="10" Column="23" />
+      <File FileName="AppCore/Entities/TeacherContactInfo.cs" Line="1" Column="1" />
+      <File FileName="AppCore/Entities/StudentCourse.cs" />
+      <File FileName="AppCore/Entities/Course.cs" />
+      <File FileName="AppCore/Entities/Student.cs" />
+      <File FileName="AppCore/Entities/StudentContactInfo.cs" />
+      <File FileName="AppCore/Entities/Teacher.cs" />
+      <File FileName="UniContext/Migrations/20230424143153_initial.cs" Line="1" Column="1" />
+      <File FileName="HW17_ParnianRafie-m91/Program.cs" Line="14" Column="1" />
+      <File FileName="Repositories/Repository.cs" Line="20" Column="2" />
+      <File FileName="AppCore/Contracts/IRepository.cs" Line="7" Column="21" />
+      <File FileName="HW17_ParnianRafie-m91/Controllers/heController.cs" Line="9" Column="1" />
+      <File FileName="HW17_ParnianRafie-m91/Controllers/HomeController.cs" Line="28" Column="21" />
+      <File FileName="UniContext/Migrations/20230424192121_init.cs" Line="1" Column="1" />
+      <File FileName="UniContext/Migrations/UniDbContextModelSnapshot.cs" Line="17" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HW17_ParnianRafie-m91" expanded="True">
-            <Node name="EndPoint" expanded="True" />
+          <Node name="HW17_ParnianRafie-m91" expanded="True" selected="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="AppCore" expanded="True">
+                  <Node name="Contracts" expanded="True" />
+                  <Node name="Entities" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="EndPoint" expanded="True">
+              <Node name="HW17_ParnianRafie-m91" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
             <Node name="Infrastructure" expanded="True">
+              <Node name="DAl" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
               <Node name="SQLDataBase" expanded="True">
                 <Node name="UniContext" expanded="True">
-                  <Node name="UniDbContext.cs" selected="True" />
+                  <Node name="Dependencies" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -29,9 +55,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EndPoint.HW17__ParnianRafie-m91 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/Controllers/HomeController.cs" relfile="HW17_ParnianRafie-m91/Controllers/HomeController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/parnianrafei/Projects/HW17_ParnianRafie-m91/HW17_ParnianRafie-m91/Controllers/heController.cs" relfile="HW17_ParnianRafie-m91/Controllers/heController.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

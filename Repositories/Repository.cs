@@ -1,4 +1,5 @@
-﻿using UniContext;
+﻿using AppCore.Entities;
+using UniContext;
 
 namespace Repositories;
 public class Repository : IRepository
@@ -9,9 +10,10 @@ public class Repository : IRepository
         _uniDbContext = uniDbContext;
     }
 
-    public void h()
+    public List<Teacher> h()
     {
-        
+        List<Teacher> students=_uniDbContext.Teacher.ToList();
+        return students;
     }
 
 

@@ -1,7 +1,9 @@
-﻿namespace Repositories
+﻿using AppCore.Entities;
+
+namespace Repositories
 {
     public interface IRepository
     {
-        void h();
+        List<Teacher> h();
     }
 }

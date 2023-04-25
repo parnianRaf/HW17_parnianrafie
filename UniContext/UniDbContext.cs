@@ -5,9 +5,27 @@ namespace UniContext;
 public class UniDbContext : DbContext
 {
 
+
+
+ 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<StudentCourse>(b =>
+        {
+            b.HasKey(sc => new { sc.CourseId, sc.StudentId });
+            b.HasOne(sc => sc.Student).WithMany(s => s.StudentCourses).HasForeignKey(sc => sc.StudentId);
+            b.HasOne(sc => sc.Course).WithMany(s => s.StudentCourses).HasForeignKey(sc => sc.CourseId);
+        });
+        modelBuilder.Entity<TeacherContactInfo>(t =>
+        {
+            t.HasKey(t => t.TeacherId);
+        });
+        modelBuilder.Entity<StudentContactInfo>(t =>
+        {
+            t.HasKey(t => t.StudentId);
+        });
+
     }
 
 
